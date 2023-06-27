@@ -1,0 +1,28 @@
+body{
+    font-family: 'Ysabeau SC', sans-serif;
+}
+
+.blue-color{
+    background-color: rgb(65,199,224);
+}
+
+.card-border-blue{
+    border: 1px solid rgb(65,199,224);
+}
+
+.hot-card{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    background-color: rgba(61, 164, 232, 0.827);
+    color: white;
+    border-radius: 5px;
+    font-size: 0.7em;
+    width: 15%;
+    text-align: center;
+
+}
+
+.gray-color{
+    background-color: rgb(55, 55, 55);
+}
